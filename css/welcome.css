@@ -1,0 +1,34 @@
+.ContainerDiv{
+    height: 400px !important;
+    width: 400px !important;
+    margin: auto !important;
+    text-align: -webkit-center !important;
+}
+
+.LoginButton{
+    background-color: blue;
+    width: 207px;
+    padding: 5px;
+    border: none;
+    border-radius: 12px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.SignUpButton{
+    background-color: red;
+    width: 207px;
+    padding: 5px;
+    border: none;
+    border-radius: 12px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.containerDivButton{
+    text-align: center;
+}
+
+.containerDivImg{
+    margin-top: 45px;
+}

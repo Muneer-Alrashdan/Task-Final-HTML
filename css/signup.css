@@ -1,0 +1,49 @@
+.ContainerDiv{
+    height: 400px !important;
+    width: 400px !important;
+    margin: auto !important;
+    text-align: -webkit-center !important;
+}
+
+.SignupButton{
+    background-color: red;
+    width: 207px;
+    padding: 5px;
+    border: none;
+    border-radius: 12px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+
+.SignUpuRL{
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+.labelEmail{
+    font-size: 13px;
+    margin-right: 128px;
+}
+
+.labelPassword{
+    font-size: 13px;
+    margin-right: 107px;
+}
+.labelConfirmPassword{
+    font-size: 13px;
+    margin-right: 62px;
+}
+
+.ContainerParagraph{
+    font-size: 12px;
+}
+
+.iconHonme{
+    margin-right: 336px;
+}
+
+.urlHome{
+    color: black !important;
+    text-decoration: none !important;
+}
+
